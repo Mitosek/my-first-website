@@ -1,0 +1,14 @@
+.button{
+    height:150px ;
+    width:150px ;
+}
+.button1{
+    height:150px;
+    width:150px;
+    transform: translate(50px, 100px);
+}
+.button2{
+    height:150px;
+    width:150px;
+    transform: translate(50px, 100px);
+}
