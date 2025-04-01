@@ -6,9 +6,23 @@
     height:150px;
     width:150px;
     transform: translate(50px, 100px);
+    background-color: #ff0000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius:100%;
+    border-color: transparent;
 }
 .button2{
     height:150px;
     width:150px;
     transform: translate(50px, 100px);
+    background-color: #ff0000;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius:100%;
+    border-color: transparent;
+}
+.button1:hover{
+    background-color: #fc3d3d;
+}
+.button2:hover{
+    background-color: #fc3d3d;
 }
